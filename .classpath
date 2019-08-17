@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib (2)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib (3)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib (4)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib (5)"/>
+	<classpathentry kind="output" path="out/production/javabank"/>
+</classpath>

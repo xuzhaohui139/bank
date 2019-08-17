@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/javabank"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="lib (2)" value="project"/>
+		<level name="lib (3)" value="project"/>
+		<level name="lib (4)" value="project"/>
+		<level name="lib (5)" value="project"/>
+	</levels>
+</component>
